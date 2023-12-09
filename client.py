@@ -1,6 +1,8 @@
 import asyncio
 import socketio
 
+
+# Socket connection
 sio = socketio.Client()
 
 
